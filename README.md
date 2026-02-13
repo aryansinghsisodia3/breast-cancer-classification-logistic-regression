@@ -57,8 +57,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn
    - Accuracy
    - Precision & Recall
    - Classification Report
-   - Confusion Matrix
-   - ROC Curve & AUC Score  
 
 ---
 
@@ -66,7 +64,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 - High classification accuracy  
 - Strong precision and recall  
-- High ROC-AUC score indicating strong model discrimination capability  
 - Effective separation between malignant and benign tumors  
 
 ---
@@ -128,5 +125,6 @@ cd breast-cancer-classification-logistic-regression
 ```bash
 jupyter notebook
 ```
+
 
 
